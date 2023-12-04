@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ColeBeckman
-- 👀 I’m interested in Learning Full Stack Web Development
-- 🌱 I’m currently learning Node.js
+- 👀 I’m Learning Full Stack Web Development
+- 🌱 I’m currently learning Node.js, along with Databases
 
 <!---
 ColeBeckman/ColeBeckman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
