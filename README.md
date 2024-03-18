@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ColeBeckman
-- 👀 I’m Learning Full Stack Web Development
+- 👀 I’m a Junior Web Developer specializing in Next.js and Typescript
 - 🌱 I’m currently learning Node.js, along with Databases
 
 <!---
